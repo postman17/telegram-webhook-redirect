@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.idea
+.vscode
+.env
+.DS_Store
+venv/
+log/app/*
+log/nginx/*
+log/redis/*
+var/*
+tmp/*
+static/*
+data/*
